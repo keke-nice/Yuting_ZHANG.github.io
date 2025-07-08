@@ -35,7 +35,7 @@ Selected Publications
     <div>
         <strong>RhythmGuassian: Repurposing Generalizable Gaussian Model For Remote Physiological Measurement</strong><br>
         <em>Hao Lu*, <strong>Yuting Zhang*</strong>, Jiaqi Tang, Bowen Fu, Wenhang Ge, Wei Wei, Kaishun Wu, Yingcong Chen</em><br>
-        <em>ICCV 2025</em><br>
+        <em>International Conference on Computer Vision (ICCV) 2025</em><br>
         <a href="https://arxiv.org/pdf/2506.18512">Paper</a> | <a href="https://github.com/keke-nice/MedTVT-R1">Code</a>
     </div>
 </div>
