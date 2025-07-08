@@ -14,7 +14,7 @@ News
 - [2025.6] One paper about rPPG is accepted by ICCV 2025 🎉
 - [2025.5] One paper about rPPG is accepted by IEEE TIP 2025 🎊
 - [2025.2] One paper about MLLM is accepted by CVPR 2025 🥹
-- [2024.9] I've successfully enrolled at the Hong Kong University of Science and Technology (Guangzhou)!😁
+- [2024.9] I've enrolled at the Hong Kong University of Science and Technology (Guangzhou)!😁
 
 
 Selected Publications
@@ -25,7 +25,7 @@ Selected Publications
     <div>
         <strong>MedTVT-R1: A Multimodal LLM Empowering Medical Reasoning and Diagnosis</strong><br>
         <em>Yuting Zhang, Kaishen Yuan, Hao Lu, Yutao Yue, Jintai Chen, Kaishun Wu</em><br>
-        <em>Published in: Journal of AI Research</em><br>
+        <em>Submitted to NeurIPS 2025</em><br>
         <a href="https://example.com/paper">Paper</a> | <a href="https://example.com/code">Code</a>
     </div>
 </div>
