@@ -21,7 +21,7 @@ Selected Publications
 ======
 
 <div style="display: flex; align-items: center;">
-    <img src="../images/MedTVT-R1.png" alt="Paper Image" style="width: 150px; margin-right: 20px;">
+    <img src="../images/MedTVT-R1.png" alt="Paper Image" style="width: 300px; margin-right: 100px;">
     <div>
         <strong>MedTVT-R1: A Multimodal LLM Empowering Medical Reasoning and Diagnosis</strong><br>
         <em>Yuting Zhang, Kaishen Yuan, Hao Lu, Yutao Yue, Jintai Chen, Kaishun Wu</em><br>
