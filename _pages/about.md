@@ -25,7 +25,7 @@ Selected Publications
     <div>
         <strong>MedTVT-R1: A Multimodal LLM Empowering Medical Reasoning and Diagnosis</strong><br>
         <em>Yuting Zhang, Kaishen Yuan, Hao Lu, Yutao Yue, Jintai Chen, Kaishun Wu</em><br>
-        <em>Submitted to NeurIPS 2025</em><br>
+        <em>Preprint 2025</em><br>
         <a href="https://arxiv.org/pdf/2506.18512">Paper</a> | <a href="https://github.com/keke-nice/MedTVT-R1">Code</a>
     </div>
 </div>
