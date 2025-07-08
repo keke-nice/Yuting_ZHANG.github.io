@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yuting Zhang / My HomePage"
+title                    : "Yuting Zhang / My Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "Yuting_ZHANG.png"
   name             : "Yuting Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Yeah!"
+  bio              : "Yeah!✌️"
   location         : "Guangzhou, China"
   employer         : "HKUST(GZ)"
   uri              : # URL
