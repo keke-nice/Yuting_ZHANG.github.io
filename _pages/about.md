@@ -20,3 +20,11 @@ News
 Selected Publications
 ======
 
+<div style="display: flex; align-items: center;">
+    <img src="./path/to/your/image.jpg" alt="Paper Image" style="width: 150px; margin-right: 20px;">
+    <div>
+        <strong>MedTVT-R1: A Multimodal LLM Empowering Medical Reasoning and Diagnosis</strong><br>
+        <em>Yuting Zhang, Kaishen Yuan, Hao Lu, Yutao Yue, Jintai Chen, Kaishun Wu</em><br>
+        <a href="https://example.com/paper">Paper</a> | <a href="https://example.com/code">Code</a>
+    </div>
+</div>
