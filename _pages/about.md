@@ -25,6 +25,7 @@ Selected Publications
     <div>
         <strong>MedTVT-R1: A Multimodal LLM Empowering Medical Reasoning and Diagnosis</strong><br>
         <em>Yuting Zhang, Kaishen Yuan, Hao Lu, Yutao Yue, Jintai Chen, Kaishun Wu</em><br>
+        <em>Published in: Journal of AI Research</em><br>
         <a href="https://example.com/paper">Paper</a> | <a href="https://example.com/code">Code</a>
     </div>
 </div>
