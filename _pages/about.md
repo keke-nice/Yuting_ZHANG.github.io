@@ -11,9 +11,9 @@ I'm Yuting Zhang, a first-year PhD student at the Hong Kong University of Scienc
 
 News
 ======
-- [2025.6] One paper about rPPG is accepted by ICCV 2025 🎉
-- [2025.5] One paper about rPPG is accepted by IEEE TIP 2025 🎊
-- [2025.2] One paper about MLLM is accepted by CVPR 2025 🥹
+- [2025.6] One paper about rPPG is accepted by ICCV 2025. 🎉
+- [2025.5] One paper about rPPG is accepted by IEEE TIP 2025. 🎊
+- [2025.2] One paper about MLLM is accepted by CVPR 2025. 🥹
 - [2024.9] I've enrolled at the Hong Kong University of Science and Technology (Guangzhou)!😁
 
 
