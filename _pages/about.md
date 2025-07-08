@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yuting Zhang, a first-year PhD student at the Hong Kong University of Science and Technology (Guangzhou), under the supervision of [Prof. Kaishun Wu](https://scholar.google.com/citations?user=Vt-q3E4AAAAJ&hl=zh-CN). Prior to this, I earned my Bachelor's and Master's degrees in Communication Engineering from Tianjin University in 2021 and 2024, respectively. My research interests include multimodal large language models and AI for healthcare. 
+I'm Yuting Zhang, a first-year PhD student at the Hong Kong University of Science and Technology (Guangzhou), under the supervision of [Prof. Kaishun Wu](https://scholar.google.com/citations?user=Vt-q3E4AAAAJ&hl=zh-CN) and [Prof. Jintai Chen](https://scholar.google.com/citations?user=ZiY3xYEAAAAJ&hl=zh-CN&oi=ao). Prior to this, I earned my Bachelor's and Master's degrees in Communication Engineering from Tianjin University in 2021 and 2024, respectively. My research interests include multimodal large language models and AI for healthcare. 
 
 News
 ======
@@ -27,5 +27,35 @@ Selected Publications
         <em>Yuting Zhang, Kaishen Yuan, Hao Lu, Yutao Yue, Jintai Chen, Kaishun Wu</em><br>
         <em>Submitted to NeurIPS 2025</em><br>
         <a href="https://arxiv.org/pdf/2506.18512">Paper</a> | <a href="https://github.com/keke-nice/MedTVT-R1">Code</a>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="../images/Period-LLM.png" alt="Paper Image" style="width: 300px; margin-right: 20px;">
+    <div>
+        <strong>Period-LLM: Extending the Periodic Capability of Multimodal Large Language Model</strong><br>
+        <em>Yuting Zhang, Hao LU, Qingyong Hu, Yin Wang, Kaishen Yuan, Xin Liu, Kaishun Wu</em><br>
+        <em>Computer Vision and Pattern Recognition (CVPR) 2025</em><br>
+        <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Period-LLM_Extending_the_Periodic_Capability_of_Multimodal_Large_Language_Model_CVPR_2025_paper.pdf">Paper</a> | <a href="https://github.com/keke-nice/Period-LLM">Code</a>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="../images/Greip.png" alt="Paper Image" style="width: 300px; margin-right: 20px;">
+    <div>
+        <strong>Advancing Generalizable Remote Physiological Measurement through the Integration of Explicit and Implicit Prior Knowledge</strong><br>
+        <em>Yuting Zhang, Hao Lu, Xin Liu, Yingcong Chen, Kaishun Wu</em><br>
+        <em>IEEE Transactions on Image Processing (TIP) 2025</em><br>
+        <a href="https://arxiv.org/pdf/2403.06947">Paper</a> | <a href="https://github.com/keke-nice/Greip">Code</a>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="../images/rPPG-MAE.png" alt="Paper Image" style="width: 300px; margin-right: 20px;">
+    <div>
+        <strong>rPPG-MAE: Self-supervised Pre-training with Masked Autoencoders for Remote Physiological Measurement</strong><br>
+        <em>Xin Liu, Yuting Zhang, Zitong Yu, Hao Lu, Huanjing Yue, Jingyu Yang</em><br>
+        <em>IEEE Transactions on Multimedia (TMM) 2024</em><br>
+        <a href="https://arxiv.org/pdf/2306.02301">Paper</a> | <a href="https://github.com/keke-nice/rPPG-MAE">Code</a>
     </div>
 </div>
